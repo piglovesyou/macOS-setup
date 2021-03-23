@@ -49,3 +49,6 @@ bash ~/git/settings/bash/create_symlinks.sh
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/piglovesyou/macOS-setup/main/install-eijiro-dict.sh)"
 ```
+
+![Screen Shot 2021-03-23 at 19 00 09](https://user-images.githubusercontent.com/217530/112128684-01a3b680-8c0a-11eb-9207-66a9b12d5e41.png)
+
