@@ -53,3 +53,5 @@ bash ~/git/settings/bash/create_symlinks.sh
 ![Screen Shot 2021-03-23 at 19 00 09](https://user-images.githubusercontent.com/217530/112128684-01a3b680-8c0a-11eb-9207-66a9b12d5e41.png)
 
 ![Screen Shot 2021-03-23 at 19 01 45](https://user-images.githubusercontent.com/217530/112128934-3fa0da80-8c0a-11eb-9428-207e3ddac76d.png)
+
+![Screen Shot 2021-03-23 at 19 02 57](https://user-images.githubusercontent.com/217530/112129119-6828d480-8c0a-11eb-9861-f71b1cc343cf.png)
