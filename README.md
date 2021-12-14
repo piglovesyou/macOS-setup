@@ -31,7 +31,7 @@ cat ~/.ssh/id_rsa.pub | pbcopy
 ## 3. Symlink configurations
 
 ```bash
-git clone git@bitbucket.org:piglovesyou/settings.git ~/git/settings
+git clone git@github.com:piglovesyou/settings.git ~/git/settings
 bash ~/git/settings/bash/create_symlinks.sh
 ```
 
