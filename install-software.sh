@@ -2,11 +2,11 @@
 
 log() {
   message=$1
-  echo "[macOS-setup] $message"
+  echo "[macos-setup] $message"
 }
 
 log "Installing Homebrew..."
-if ! command -v COMMAND &> /dev/null; then
+if ! command -v brew &> /dev/null; then
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 else
   log "Homebrew already installed. Skipping."
