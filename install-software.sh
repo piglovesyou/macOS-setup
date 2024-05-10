@@ -12,6 +12,12 @@ else
   log "Homebrew already installed. Skipping."
 fi
 
+if [ ! -f ./brew-packages.txt ]; then
+    brew install wget 
+    wget https://raw.githubusercontent.com/piglovesyou/macOS-setup/main/brew-packages.txt
+    wget https://raw.githubusercontent.com/piglovesyou/macOS-setup/main/brew-cask-packages.txt
+fi
+
 log "Installing CLI packages..."
 # Update here by "brew leaves | pbcopy"
 brew install $(cat ./brew-packages.txt)
