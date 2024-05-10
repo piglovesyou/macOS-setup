@@ -3,7 +3,6 @@ karabiner-elements
 zoom
 bettertouchtool
 deepl
-box-drive
 docker
 dropbox
 figma
@@ -13,17 +12,12 @@ grandperspective
 graphql-playground
 jetbrains-toolbox
 kindle
-onyx
 pixelsnap
-vmware-fusion
 sizeup
 slack
 the-unarchiver
-typora
-vanilla
 wireshark
-calibre
 iterm2
-krisp
 mysqlworkbench
 microsoft-excel
+1password
